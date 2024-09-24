@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I received my Ph.D. degree in Information and Communication Engineeringin December 2023 from Harbin Engineering University, Harbin, China. My academic journey has equipped me with a robust foundation in cutting-edge technologies and research methodologies. Currently, I work as a research associate at North Automatic Control Technology Institute, where I use my expertise to drive impactful projects and contribute to the field of information technology.
+
+I have a keen interest in exploring the intersection of technology and communication, always eager to learn and apply new concepts to solve complex problems. My work involves a blend of theoretical research and practical application, which I find incredibly rewarding.
+
+When I'm not immersed in the world of data and algorithms, you can find me engaging with the tech community, staying updated with the latest industry trends, or sharing my insights through various platforms.
+
+Feel free to connect with me to discuss opportunities, ideas, or just to have a chat about the fascinating world of technology!
 
 A data-driven personal website
 ======
