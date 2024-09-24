@@ -1,54 +1,44 @@
 ---
 permalink: /
-title: "About me"
+title: "Yumeng Su Profile"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I received my Ph.D. degree in Information and Communication Engineeringin December 2023 from Harbin Engineering University, Harbin, China. My academic journey has equipped me with a robust foundation in cutting-edge technologies and research methodologies. Currently, I work as a Research Associate at North Automatic Control Technology Institute, where I use my expertise to drive impactful projects and contribute to the field of information technology.
+Yumeng Su received the B.E. degree in in Electronic Information Engineering from Harbin Engineering University, Harbin, China, in 2016, and the Ph.D. degree in Information and Communication Engineering from Harbin Engineering University, Harbin, China, in 2023. She is currently a Research Associate at North Automatic Control Technology Institute, where she use her expertise to drive impactful projects and contribute to the field of information technology. Her research interests include wireless communication, massive MIMO, physical layer security, resource management, intelligent computing, network slicing, intelligent reflecting surface, and B5G/6G technologies.
 
-I have a keen interest in exploring the intersection of technology and communication, always eager to learn and apply new concepts to solve complex problems. My work involves a blend of theoretical research and practical application, which I find incredibly rewarding.
 
-When I'm not immersed in the world of data and algorithms, you can find me engaging with the tech community, staying updated with the latest industry trends, or sharing my insights through various platforms.
-
-Feel free to connect with me to discuss opportunities, ideas, or just to have a chat about the fascinating world of technology!
-
-Affiliation
+Education and qualifications 
 ======
-2024.3-  North Automatic Control Technology Institute, Research Associate
+2024.3- current  Research Associate, North Automatic Control Technology Institute, Taiyuan, China.
+2021.10-2022.10  Visiting Ph.D. Student, Computer and Information Science, Korea University, Sejong Metropolitan City, S. Korea.
+2017.9-2023.12   Combined Master's/Ph.D, Information and Communication Engineering, Harbin Engineering University, Harbin, China.
+2012.9-2016.6    B.E.，Electronic Information Engineering, Harbin Engineering University, Harbin, China.
+ 
 
-
-Getting started
+Journal Referee
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+IEEE Internet of Things Journal
+IEEE Wireless Communications Magazine
+IEEE Systems Journal
+Wireless Communicaitons & Mobile Comupting
+KSII Transactions on Internet and Information Systems
 
-Site-wide configuration
+
+Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. Shibo Zhang, Hongyuan Gao, Yumeng Su, Jianhua Cheng, and Minho Jo, "Intelligent mixed reflecting/relaying surface-aided secure wireless communications," IEEE Transactions on Vehicular Technology, vol. 73, no. 1, pp. 532-543, 2024.
+2. Hongyuan Gao, Yumeng Su, Shibo Zhang, Yangyang Hou, and Minho Jo, "Joint antenna selection and power allocation for secure co-time co-frequency full-duplex massive MIMO Systems," IEEE Transactions on Vehicular Technology, vol. 70, no. 1, pp. 655-665, 2021.
+3. Hongyuan Gao, Yumeng Su, Shibo Zhang, and Ming Diao, "Antenna selection and power allocation design for 5G massive MIMO uplink networks," China Communications, vol. 16, no. 4, pp. 1-15, 2019.
+4. Yumeng Su, Hongyuan Gao, and Shibo Zhang, "Energy-efficient resource management for CCFD massive MIMO systems in 6G networks," Journal of Systems Engineering and Electronics, vol. 33, no. 4, pp.877-886, 2022. 
+5. Yumeng Su, Hongyuan Gao, and Shibo Zhang, "Hybrid resource allocation scheme in secure intelligent reflecting surface-assisted IoT," KSII Transactions on Internet and Information Systems, vol.33, no. 10, pp. 3256-3274, 2022.
+6. Yumeng Su, Hongyuan Gao, and Shibo Zhang, "Secure massive MIMO system with two-way relay cooperative transmission in 6G networks," Eurasip Journal on Wireless Communications and Networking, Art no. 73, 2023. 
+7. Hongyuan Gao, Shibo Zhang, Yumeng Su, and Ming Diao, "Joint resource allocation and power control algorithm for cooperative D2D heterogeneous networks," IEEE Access, vol. 7, pp. 20632-20643, 2019.
+8. Hongyuan Gao, Shibo Zhang, Yumeng Su, and Ming Diao, "Energy harvesting and information transmission mode design for cooperative EH-abled IoT applications in beyond 5G Networks," Wireless Communications & Mobile Computing, Art no. 6136298, 2020.
+9. Hongyuan Gao, Shibo Zhang, Yumeng Su, Ming Diao, and Minho Jo, "Joint multiple relay selection and time slot allocation algorithm for the EH-abled cognitive multi-user relay networks," IEEE Access, vol. 7, pp. 111993-112007, 2019.
+10. Hongyuan Gao, Shihao Wang, Yumeng Su, Helin Sun, and Zhiwei Zhang, "Evolutionary neural network based on quantum elephant herding algorithm for modulation recognition in impulse noise," KSII Transactions on Internet and Information Systems, vol. 15, no. 7, pp. 2356-2376, 2021.
+11. Hongyuan Gao, Yumeng Su, Shibo Zhang, "Intelligent antenna selection and power allocation method for massive MIMO system," Systems Engineering and Electronics, vol. 42, no. 12, pp. 2669-2675, 2020.
+12. Hongyuan Gao, Yumeng Su, and Shibo Zhang, "A multiple relay selection scheme based on QPO in cognitive relay networks," International Journal of Wireless and Mobile Computing, vol. 16, no. 4, pp. 305-313, 2019.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
