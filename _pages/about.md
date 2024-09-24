@@ -7,23 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-Yumeng Su received the B.E. degree in in Electronic Information Engineering from Harbin Engineering University, Harbin, China, in 2016, and the Ph.D. degree in Information and Communication Engineering from Harbin Engineering University, Harbin, China, in 2023. She is currently a Research Associate at North Automatic Control Technology Institute, where she use her expertise to drive impactful projects and contribute to the field of information technology. Her research interests include wireless communication, massive MIMO, physical layer security, resource management, intelligent computing, network slicing, intelligent reflecting surface, and B5G/6G technologies.
+Yumeng Su received the B.E. degree in in Electronic Information Engineering from Harbin Engineering University, Harbin, China, in 2016, and the Ph.D. degree in Information and Communication Engineering from Harbin Engineering University, Harbin, China, in 2023. She is currently a Research Associate at North Automatic Control Technology Institute, where she use her expertise to drive impactful projects and contribute to the field of information technology. 
+
+
+Research Areas 
+======
+Wireless communications, massive MIMO, physical layer security, resource management, intelligent computing, network slicing, intelligent reflecting surface, and B5G/6G technologies.
 
 
 Education and qualifications 
 ======
 2024.3- current  Research Associate, North Automatic Control Technology Institute, Taiyuan, China.
+
 2021.10-2022.10  Visiting Ph.D. Student, Computer and Information Science, Korea University, Sejong Metropolitan City, S. Korea.
+
 2017.9-2023.12   Combined Master's/Ph.D, Information and Communication Engineering, Harbin Engineering University, Harbin, China.
+
 2012.9-2016.6    B.E.，Electronic Information Engineering, Harbin Engineering University, Harbin, China.
  
 
 Journal Referee
 ======
 IEEE Internet of Things Journal
+
 IEEE Wireless Communications Magazine
+
 IEEE Systems Journal
+
 Wireless Communicaitons & Mobile Comupting
+
 KSII Transactions on Internet and Information Systems
 
 
