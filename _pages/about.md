@@ -9,7 +9,7 @@ redirect_from:
 
 Yumeng Su received the B.E. degree in in Electronic Information Engineering from Harbin Engineering University, Harbin, China, in 2016, and the Ph.D. degree in Information and Communication Engineering from Harbin Engineering University, Harbin, China, in 2023. 
 
-She is currently a Research Assistant at North Automatic Control Technology Institute, where she use her expertise to drive impactful projects and contribute to the field of information technology. 
+She is currently a Research Assistant of North Automatic Control Technology Institute, where she use her expertise to drive impactful projects and contribute to the field of information technology. 
 
 
 Research Area
@@ -43,11 +43,11 @@ KSII Transactions on Internet and Information Systems
 
 Publications
 ------
-1. Yumeng Su, Hongyuan Gao, and Shibo Zhang, "Energy-efficient resource management for CCFD massive MIMO systems in 6G networks," Journal of Systems Engineering and Electronics, vol. 33, no. 4, pp.877-886, 2022. 
-2. Yumeng Su, Hongyuan Gao, and Shibo Zhang, "Hybrid resource allocation scheme in secure intelligent reflecting surface-assisted IoT," KSII Transactions on Internet and Information Systems, vol.33, no. 10, pp. 3256-3274, 2022.
+1. Hongyuan Gao, Yumeng Su, Shibo Zhang, Yangyang Hou, and Minho Jo, "Joint antenna selection and power allocation for secure co-time co-frequency full-duplex massive MIMO Systems," IEEE Transactions on Vehicular Technology, vol. 70, no. 1, pp. 655-665, 2021.
+2. Yumeng Su, Hongyuan Gao, and Shibo Zhang, "Energy-efficient resource management for CCFD massive MIMO systems in 6G networks," Journal of Systems Engineering and Electronics, vol. 33, no. 4, pp.877-886, 2022.
 3. Yumeng Su, Hongyuan Gao, and Shibo Zhang, "Secure massive MIMO system with two-way relay cooperative transmission in 6G networks," Eurasip Journal on Wireless Communications and Networking, Art no. 73, 2023.
-4. Hongyuan Gao, Yumeng Su, Shibo Zhang, Yangyang Hou, and Minho Jo, "Joint antenna selection and power allocation for secure co-time co-frequency full-duplex massive MIMO Systems," IEEE Transactions on Vehicular Technology, vol. 70, no. 1, pp. 655-665, 2021.
-5. Hongyuan Gao, Yumeng Su, Shibo Zhang, and Ming Diao, "Antenna selection and power allocation design for 5G massive MIMO uplink networks," China Communications, vol. 16, no. 4, pp. 1-15, 2019.
+4. Hongyuan Gao, Yumeng Su, Shibo Zhang, and Ming Diao, "Antenna selection and power allocation design for 5G massive MIMO uplink networks," China Communications, vol. 16, no. 4, pp. 1-15, 2019.
+5. Yumeng Su, Hongyuan Gao, and Shibo Zhang, "Hybrid resource allocation scheme in secure intelligent reflecting surface-assisted IoT," KSII Transactions on Internet and Information Systems, vol.33, no. 10, pp. 3256-3274, 2022.
 6. Shibo Zhang, Hongyuan Gao, Yumeng Su, Jianhua Cheng, and Minho Jo, "Intelligent mixed reflecting/relaying surface-aided secure wireless communications," IEEE Transactions on Vehicular Technology, vol. 73, no. 1, pp. 532-543, 2024.
 7. Hongyuan Gao, Shibo Zhang, Yumeng Su, and Ming Diao, "Joint resource allocation and power control algorithm for cooperative D2D heterogeneous networks," IEEE Access, vol. 7, pp. 20632-20643, 2019.
 8. Hongyuan Gao, Shibo Zhang, Yumeng Su, and Ming Diao, "Energy harvesting and information transmission mode design for cooperative EH-abled IoT applications in beyond 5G Networks," Wireless Communications & Mobile Computing, Art no. 6136298, 2020.
