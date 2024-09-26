@@ -10,6 +10,7 @@ redirect_from:
 Yumeng Su received the B.E. degree in in Electronic Information Engineering from Harbin Engineering University, Harbin, China, in 2016, and the Ph.D. degree in Information and Communication Engineering from Harbin Engineering University, Harbin, China, in 2023. 
 
 She is currently a Research Assistant of North Automatic Control Technology Institute, where she use her expertise to drive impactful projects and contribute to the field of information technology. 
+email:suyumeng1994@126.com
 
 
 Research Area
