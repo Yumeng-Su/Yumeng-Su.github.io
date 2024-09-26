@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yumeng Su"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "YumengSu.png"
   name             : "Dr. Yumeng Su"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant"
+  bio              : "Research Assistant of North Automatic Control Technology Institute"
   location         : "Taiyuan"
-  employer         : "North Automatic Control Technology Institute"
+  employer         : "NORINCO GROUP"
   uri              : # URL
   email            : "suyumeng1994@126.com" 
 
