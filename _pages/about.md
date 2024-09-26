@@ -11,7 +11,7 @@ Yumeng Su received the B.E. degree in in Electronic Information Engineering from
 
 She is currently a Research Assistant of North Automatic Control Technology Institute, where she use her expertise to drive impactful projects and contribute to the field of information technology. 
 
-email:suyumeng1994@126.com
+Email: suyumeng1994@126.com
 
 
 Research Area
